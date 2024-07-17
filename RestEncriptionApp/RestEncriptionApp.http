@@ -1,0 +1,6 @@
+@RestEncriptionApp_HostAddress = http://localhost:5064
+
+GET {{RestEncriptionApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
